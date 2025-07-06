@@ -1,0 +1,20 @@
+body{
+background-color:rgb(1, 1, 12);
+}
+
+h1{ 
+  font-family:"Bebas Neue", sans-serif;
+ font-weight: 400;
+  font-style: normal;
+  font-size: 68px;
+  text-align: center;
+  color: yellow;
+}
+
+p{
+  .bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
