@@ -9,6 +9,8 @@ h1 {
   font-size: 68px;
   text-align: center;
   color: yellow;
+
+  
 }
 
 p {
@@ -18,4 +20,27 @@ p {
   text-align: justify;
   margin: 20px;
   line-height: 1.6;
+
+ 
+}
+
+  strong{
+    font-weight: 700;
+    color: white;
+  }
+
+em{
+  font-weight: 700;
+    color: white;
+}
+
+.patoImagem1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.patoImagem1 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; /* opcional */
 }
